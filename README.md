@@ -1,5 +1,4 @@
-                        
-                    Symfony 6 Dashboard EASYADMIN 4 ET MYSQL
+                        Symfony 6 Dashboard 
 
 The "Symfony Demo Application" is a reference application created to show how to develop applications following the Symfony Best Practices.
 
